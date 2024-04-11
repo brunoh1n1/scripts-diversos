@@ -4,10 +4,11 @@ Este script Python permite capturar uma imagem com a câmera usando fswebcam e e
 
 ## Dependências
 
-Python 3
-Biblioteca requests
-Comando fswebcam
-Instalação das Dependências
+- Python3
+- Biblioteca requests
+- Comando fswebcam
+
+# Instalação das Dependências
 
 Certifique-se de ter o Python 3 instalado em seu sistema. Você pode instalar a biblioteca requests via pip:
 ```
